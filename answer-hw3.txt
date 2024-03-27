@@ -1,0 +1,5 @@
+Array values:
+7 87 46 35 87 84 
+
+Average: 57.67
+Max: 87
